@@ -1,2 +1,2 @@
-# parthramani.github.com
-Personal Portfolio
+# Personal Portfolio
+ parthramani.github.com
