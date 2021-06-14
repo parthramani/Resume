@@ -1,2 +1,2 @@
 # Personal Portfolio
- parthramani.github.com
+https://github.com/parthramani
