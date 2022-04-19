@@ -1,3 +1,3 @@
-# Welcome to my Github
+# Welcome to my Github Page
 
 parthramani.github.io/resume/
