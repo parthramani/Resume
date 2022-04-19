@@ -1,3 +1,3 @@
-Github CV
+#
 
-This is index page
+This is the index page
