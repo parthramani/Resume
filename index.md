@@ -47,3 +47,18 @@ JULY 2019 - APRIL 2020
 - Working with customers during crisis times to help mitigate the crisis and better client security posture to ensure crisis does not occur again
 
 ---
+
+## Certification
+
+AUGUST 2021 - AUGUST 2024
+
+**CompTIA** - [Cybersecurity Analyst (CySA+) ce Certification](https://www.credly.com/badges/2393068a-2ecb-4cfc-a8db-18b835dfc957)
+
+SEPTEMBER 2021 - SEPTEMBER 2024
+
+**CompTIA** - [Security+ ce Certification](https://www.credly.com/badges/291b7e2c-4689-4ec4-b6ac-aaa6f4f5e8d4)
+
+AUGUST 2021 - SEPTEMBER 2024
+
+**CompTIA** - [Network+ ce Certification
+](https://www.credly.com/badges/79d181e9-5df4-4e2b-bd78-76ed0cb31441)
