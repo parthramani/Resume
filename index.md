@@ -1,4 +1,4 @@
-# Resume
+# Parth Ramani
 
 ## Contact
 
@@ -12,7 +12,7 @@
 
 APRIL-2021 - PRESENT
 
-**_IBM Security, IBM Polska Sp. z o.o., Wroclaw, PL_** - _Tier-2 SOC Analyst_
+**_IBM Security, IBM Polska Sp. z o.o., Wroclaw, PL_** - Tier-2 SOC Analyst
 
 - Determine if the security alert should be classified as a security incident
 - Analysis method of attack or threat
@@ -26,7 +26,7 @@ APRIL-2021 - PRESENT
 
 JULY 2019 - MARCH 2021
 
-**_IBM Security, IBM Polska Sp. z o.o., Wroclaw, PL_** - _XFTM Threat Monitoring Analyst (L1/L2)_
+**_IBM Security, IBM Polska Sp. z o.o., Wroclaw, PL_** - XFTM Threat Monitoring Analyst (L1/L2)
 
 - Analyze events, flows, alerts and advance analysis of potential security incidents based on various technologies and vendors
 - Use Artificial Intelligence in daily analysis as part of XForce Threat Management strategy
