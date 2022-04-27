@@ -68,10 +68,17 @@ AUGUST 2021 - SEPTEMBER 2024
 ## Education
 
 OCTOBER 2013 - MAY 2021
+
 **_Wroclaw University of Science and Technology, Wroclaw, PL_** - _Bachelor’s in Science Computer Science_
+
 Faculty of Computer Science and Management
+
 Completed 198/210 ECTS Credits
 
 AUGUST 2010 - JUNE 2012
+
 **_JG International School, Gujarat, IN_** - High School Diploma (A-Levels)
+
 English Instructed
+
+---
