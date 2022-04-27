@@ -2,6 +2,18 @@
 
 ---
 
+## Professional Summary
+
+3 years’ experience as a cybersecurity analyst at IBM’s X-Force Threat Management SOC with a
+keen interest in protecting and securing data and computer systems.
+
+Detail-oriented analysis and knowledge in various platforms. Competent in executing, drafting, and
+maintaining SOPs, along with incident reports.
+
+Currently preparing for EC-Council’s Certified Ethical Hacker (CEHv11) Certification
+
+---
+
 ## Contact
 
 **Location**: Wroclaw, PL
