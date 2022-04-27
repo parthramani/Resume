@@ -62,3 +62,16 @@ AUGUST 2021 - SEPTEMBER 2024
 
 **CompTIA** - [Network+ ce Certification
 ](https://www.credly.com/badges/79d181e9-5df4-4e2b-bd78-76ed0cb31441)
+
+---
+
+## Education
+
+OCTOBER 2013 - MAY 2021
+**_Wroclaw University of Science and Technology, Wroclaw, PL_** - _Bachelor’s in Science Computer Science_
+Faculty of Computer Science and Management
+Completed 198/210 ECTS Credits
+
+AUGUST 2010 - JUNE 2012
+**_JG International School, Gujarat, IN_** - High School Diploma (A-Levels)
+English Instructed
