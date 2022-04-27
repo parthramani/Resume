@@ -1,4 +1,6 @@
-# Parth Ramani
+# **Parth Ramani**
+
+---
 
 ## Contact
 
@@ -8,7 +10,9 @@
 
 **LinkedIN**: [www.linkedin.com/in/parthramani](https://www.linkedin.com/in/parthramani)
 
-## Experince
+---
+
+## Experience
 
 APRIL-2021 - PRESENT
 
@@ -24,9 +28,15 @@ APRIL-2021 - PRESENT
 - Testing and maintenance of response procedures
 - Participate in lessons learned workshops
 
-JULY 2019 - MARCH 2021
+APRIL 2020 - MARCH 2021
 
 **_IBM Security, IBM Polska Sp. z o.o., Wroclaw, PL_** - XFTM Threat Monitoring Analyst (L1/L2)
+
+- Promotion
+
+JULY 2019 - APRIL 2020
+
+**_IBM Security, IBM Polska Sp. z o.o., Wroclaw, PL_** - Junior XFTM Threat Monitoring Analyst (L1)
 
 - Analyze events, flows, alerts and advance analysis of potential security incidents based on various technologies and vendors
 - Use Artificial Intelligence in daily analysis as part of XForce Threat Management strategy
@@ -35,3 +45,5 @@ JULY 2019 - MARCH 2021
 - Report Security Events and make customer escalations based on traffic analysis
 - Identify trends in traffic and make recommendations to clients based on trends
 - Working with customers during crisis times to help mitigate the crisis and better client security posture to ensure crisis does not occur again
+
+---
