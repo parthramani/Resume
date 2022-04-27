@@ -82,3 +82,15 @@ AUGUST 2010 - JUNE 2012
 English Instructed
 
 ---
+
+## Skills
+
+SIEM: IBM QRadar, Splunk, Microsoft Sentinel
+
+SOAR: IBM Security QRadar SOAR (formerly Resilient)
+
+Platform: McAfee ePO (AV), Microsoft Defender ATP (EDR), Microsoft ATA, Microsoft Azure Security, Carbon Black (EDR), Palo Alto Firewall (NGFW), Vectra Cognito Platform (NAD/NTA), Cisco IronPort (SEG), ClearSwift Secure Email Gateway (SEG), Zscaler Cloud Portal (Web Proxy), Cisco Umbrella (Web Proxy), ServiceNow (Ticketing), BMC Remedy (Ticketing) , TheHive (Ticketing)
+
+OS: Windows, Linux
+
+Language: Python
